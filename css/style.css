@@ -1253,8 +1253,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
 	line-height:1.8em;
 }
 .w3l_footer_pos p a{
-	color:#44c7f4;
-	text-decoration:underline;
+	color:#fff;
+	text-decoration:none;
 }
 .w3l_footer_pos p a:hover{
 	color:#fff;
